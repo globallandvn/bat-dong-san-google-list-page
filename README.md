@@ -1,4 +1,4 @@
-# Danh mục Bất động sản của <a href='https://globalland.vn'>Global Land Việt Nam</a> được List Page Trên Google:
+## 🌏 Danh mục Bất động sản của <a href='https://globalland.vn/bat-dong-san-cho-thue' target='_blank'>Global Land Việt Nam </a> được List Page Trên Google:
 
 <p><li><a href='https://www.google.com/search?q=site%3Ahttps://globalland.vn/tp-hcm/van-phong-cho-thue-an-dong' target='_blank'>Văn phòng Cho thuê tại phường An Đông</a></li></p>
 <p><li><a href='https://www.google.com/search?q=site%3Ahttps://globalland.vn/tp-hcm/can-ho-dich-vu-cho-thue-an-khanh' target='_blank'>Căn Hộ Dịch Vụ Cho thuê tại phường An Khánh</a></li></p>
@@ -387,5 +387,4 @@
 <p><li><a href='https://www.google.com/search?q=site%3Ahttps://globalland.vn/tp-hcm/gia-dinh/van-phong-tron-goi-devspace-coworking-cho-thue' target='_blank'>Văn Phòng Trọn Gói Devspace Coworking Cho thuê</a></li></p>
 <p><li><a href='https://www.google.com/search?q=site%3Ahttps://globalland.vn/tp-hcm/sai-gon/van-phong-tron-goi-dreamplex-nguyen-trung-ngan-cho-thue' target='_blank'>Văn Phòng Trọn Gói Dreamplex Nguyễn Trung Ngạn Cho thuê</a></li></p>
 <p><li><a href='https://www.google.com/search?q=site%3Ahttps://globalland.vn/tp-hcm/gia-dinh/van-phong-gic-bach-dang-cho-thue' target='_blank'>Văn phòng Gic Bạch Đằng Cho thuê</a></li></p>
-![Uploading image.png…]()
 
